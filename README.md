@@ -1,2 +1,2 @@
 # Scraping-Books-Store
-as traning for scraping data from website using python 
+as training for scraping data from website using python 
